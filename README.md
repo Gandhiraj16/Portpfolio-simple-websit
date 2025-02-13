@@ -10,13 +10,6 @@ Fully responsive layout (if applicable)
 HTML5
 CSS3
 🚀 How to Use
-
-Clone the repository:
-bash
-Copy code
-git clone [https://github.com/Gandhiraj16/Portpfolio-simple-websit/new/main?readme=1]
-Open index.html in your browser to view the website.
-
 🔗 Live Demo
 
 Your Portfolio Live Link (Replace with actual link if deployed)
